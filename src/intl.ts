@@ -9,6 +9,10 @@ export const commonMessages = defineMessages({
     id: "7NFfmz",
     defaultMessage: "Products",
   },
+  printify: {
+    id: "D6gUaw",
+    defaultMessage: "Products",
+  },
   chooseFile: {
     id: "eWcvOc",
     defaultMessage: "Choose file",
@@ -515,6 +519,16 @@ export const sectionNames = defineMessages({
     id: "WhvuCb",
     defaultMessage: "Plugins",
     description: "plugins section name",
+  },
+  printify: {
+    id: "G8Ef6y",
+    defaultMessage: "Printify",
+    description: "printify section name",
+  },
+  printifyCreateProduct: {
+    id: "S4dg4F",
+    defaultMessage: "Create Printify Product",
+    description: "printify section name",
   },
   productTypes: {
     id: "YQ3EXR",
